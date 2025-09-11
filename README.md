@@ -6,3 +6,8 @@ Exploring the integration of Mixed Reality (MR) as a transformative tool for tra
 Step into a Mixed Reality experience where the physical and virtual worlds collide. This demo showcases real-time interaction with a virtual robot using the Meta Quest 3. Watch as the robot responds to user presence and gestures in a shared space.
 
 <img width="300" height="170" alt="image" src="https://github.com/user-attachments/assets/b7481ad5-682b-4bf9-b4ea-7698bb558e06" />  |  Link to video: https://youtu.be/iiPRxnOfGOQ
+
+## Mixed Reality: Planning-Tool Showcase
+Discover how our Mixed Reality tool transforms workspace planning. Design, visualize, and adjust layouts in real-time – all in 3D. This showcase highlights key features for immersive environment setup.
+
+https://youtu.be/5cSgwvTsECU
