@@ -7,5 +7,5 @@ Step into a Mixed Reality experience where the physical and virtual worlds colli
 
 Tauche ein in ein Mixed-Reality-Erlebnis, in dem reale und virtuelle Welt miteinander verschmelzen. In dieser Demo reagiert ein virtueller Roboter auf die Steuerung über die Zielmarkierung des Meta Quest-Controllers. Der Roboter folgt der Markierung in Echtzeit und schafft so eine interaktive MR-Erfahrung.
 
-<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/b7481ad5-682b-4bf9-b4ea-7698bb558e06" /> \n
+<img width="300" height="170" alt="image" src="https://github.com/user-attachments/assets/b7481ad5-682b-4bf9-b4ea-7698bb558e06" /> <br|
 Link: https://youtu.be/iiPRxnOfGOQ
