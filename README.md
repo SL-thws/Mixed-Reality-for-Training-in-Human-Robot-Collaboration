@@ -1,6 +1,7 @@
 # Mixed-Reality-for-Training-in-Human-Robot-Collaboration
 Exploring the integration of Mixed Reality (MR) as a transformative tool for training in Human-Robot Collaboration (HRC), enhancing workforce skills through immersive, interactive environments.
 
+This content on GitHub was created as part of an ongoing research project at the Technical University of Applied Sciences Würzburg-Schweinfurt, specifically at the Center for Robotics (CeRI).
 
 ## Mixed Reality: Robot Interaction Showcase
 Step into a Mixed Reality experience where the physical and virtual worlds collide. This demo showcases real-time interaction with a virtual robot using the Meta Quest 3. Watch as the robot responds to user presence and gestures in a shared space.
