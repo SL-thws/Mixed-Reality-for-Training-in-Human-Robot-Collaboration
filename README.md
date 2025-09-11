@@ -17,3 +17,8 @@ Discover how our Mixed Reality tool transforms workspace planning. Design, visua
 Train interactively in Mixed Reality using a precise digital twin of a cobot workstation. Engage with a realistic virtual replica to master setup and operation safely. Build your skills efficiently through immersive, hands-on simulations.
 
 <img width="300" height="170" alt="Screenshot 2025-09-11 174442" src="https://github.com/user-attachments/assets/5038874f-507c-46d6-baaf-29bd7cb29733" /> |  Link to video: https://youtu.be/f1hI19bL1fw
+
+🔧 Overview
+Hardware: Meta Quest 3
+Software: Unity (Mixed Reality application)
+CAD Models of the UR Robots: https://www.universal-robots.com/
