@@ -11,3 +11,8 @@ Step into a Mixed Reality experience where the physical and virtual worlds colli
 Discover how our Mixed Reality tool transforms workspace planning. Design, visualize, and adjust layouts in real-time – all in 3D. This showcase highlights key features for immersive environment setup.
 
 <img width="300" height="170" alt="Screenshot 2025-09-11 172038" src="https://github.com/user-attachments/assets/1976289a-6c92-4b58-b001-cba813532738" />  |  Link to video: https://youtu.be/5cSgwvTsECU
+
+## Mixed Reality: Immersive Cobot Workstation Training
+Train interactively in Mixed Reality using a precise digital twin of a cobot workstation. Engage with a realistic virtual replica to master setup and operation safely. Build your skills efficiently through immersive, hands-on simulations.
+
+<img width="300" height="170" alt="Screenshot 2025-09-11 174442" src="https://github.com/user-attachments/assets/5038874f-507c-46d6-baaf-29bd7cb29733" /> |  Link to video: https://youtu.be/f1hI19bL1fw
